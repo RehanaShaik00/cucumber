@@ -1,0 +1,5 @@
+{
+    "testFiles": "**/*.feature",
+    "fixturesFolder":"cypress/integration/fixtures",
+    "defaultCommandTimeout":10000
+}
